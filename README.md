@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Array
+|  |
+| ------- |
+| [0228-summary-ranges](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0228-summary-ranges) |
 <!---LeetCode Topics End-->
