@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -22,5 +23,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0228-summary-ranges](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0228-summary-ranges) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
