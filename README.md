@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0189-rotate-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0228-summary-ranges) |
 ## Sorting
 |  |
@@ -34,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
