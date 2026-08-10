@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0228-summary-ranges) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0189-rotate-array) |
 ## Prefix Sum
 |  |
