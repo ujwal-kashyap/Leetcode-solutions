@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0371-sum-of-two-integers](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
