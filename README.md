@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0268-missing-number](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -52,12 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 ## Prefix Sum
 |  |
@@ -75,5 +80,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
