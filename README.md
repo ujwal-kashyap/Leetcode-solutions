@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ujwal-kashyap/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
